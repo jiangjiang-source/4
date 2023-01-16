@@ -7,7 +7,7 @@ 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
 3.1括号内为  git 链接
 git remote add origin (https://github.com/jiangjiang-source/222.git)
 3.2第一个为token 名，后面是 仓库名
-git remote set-url origin https://(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)@github.com/jiangjiang-source/222.git
+git remote set-url origin https://(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)@github.com/jiangjiang-source/222.git
 3.3 修改名字 为  git branch -m main
 3.4 git push origin main
 
