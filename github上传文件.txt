@@ -1,0 +1,13 @@
+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
+
+代码上传步骤
+1.github上传账号
+2.注册token,参考 https://blog.csdn.net/Eric_Sober/article/details/122155143并记录下token
+3.创建新仓库（尽量不要添加readme文件，防止后面起冲突）
+3.1括号内为  git 链接
+git remote add origin (https://github.com/jiangjiang-source/222.git)
+3.2第一个为token 名，后面是 仓库名
+git remote set-url origin https://(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)@github.com/jiangjiang-source/222.git
+3.3 修改名字 为  git branch -m main
+3.4 git push origin main
+
